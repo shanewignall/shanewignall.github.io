@@ -1,0 +1,25 @@
+{
+  "name": "Semaphore",
+  "theme_color": "rgb(228, 228, 231)",
+  "background_color": "rgb(9, 9, 11)",
+  "short_name": "Semaphore",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
