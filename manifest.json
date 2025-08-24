@@ -1,7 +1,7 @@
 {
   "name": "Semaphore",
-  "theme_color": "rgb(228, 228, 231)",
   "background_color": "rgb(9, 9, 11)",
+  "theme_color": "rgb(9, 9, 11)",
   "short_name": "Semaphore",
   "display": "fullscreen",
   "orientation": "portrait",
